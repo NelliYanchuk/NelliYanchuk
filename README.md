@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Nelli's page
 #### I am a DataBase Engineer/ ETL Developer
-![I am a DataBase Engineer/ ETL Developer](https://i.ibb.co/kHr04Sr/dataengineer.jpg))
+![I am a DataBase Engineer/ ETL Developer](https://i.postimg.cc/NMzYFPWc/dataengineer.jpg))
 
 🌟 I am a cheerful and open-minded individual who values diversity and enjoys working in collaborative environments. 
 🌟 I am comfortable handling both repetitive tasks and managing multiple responsibilities at once. Cooperation with team members is essential to me, as I prefer not to work in isolation. 
