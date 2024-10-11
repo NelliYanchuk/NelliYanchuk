@@ -1,9 +1,9 @@
 ### Hi there 👋, It's Nelli's page
 #### I am a DataBase Engineer/ ETL Developer
-![I am a DataBase Engineer/ ETL Developer](https://i.postimg.cc/NMzYFPWc/dataengineer.jpg))
+<img src="https://i.postimg.cc/NMzYFPWc/dataengineer.jpg" alt="I am a DataBase Engineer/ ETL Developer" width="700" height="350">
 
-🌟 I am a cheerful and open-minded individual who values diversity and enjoys working in collaborative environments. 
-🌟 I am comfortable handling both repetitive tasks and managing multiple responsibilities at once. Cooperation with team members is essential to me, as I prefer not to work in isolation. 
+🌟 I am a cheerful and open-minded individual who values diversity and enjoys working in collaborative environments.  
+🌟 I am comfortable handling both repetitive tasks and managing multiple responsibilities at once. Cooperation with team members is essential to me, as I prefer not to work in isolation.  
 🌟 Although I am adaptable, I prefer working with established frameworks rather than being the first to introduce and implement entirely new development environments.
 
 Skills: AWS/ ETL/ SQL/ Python/ Docker/ Git/ Linux/ Matillion/ Pandas/ BitBucket/ Jira/ SSIS/ PostgreSQL/ MS SQL Server/ AginityWorkbench/ DBeaver/ Data Migration Service
