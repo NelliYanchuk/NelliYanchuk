@@ -1,5 +1,5 @@
 ###  👋 It's Nelli Yanchuk. Welcome to my page 👋 
-#### I hold a degree in IT and have 3+ years of experience in data management and engineering.
+#### I hold a degree in IT and have 5+ years of experience in data management and engineering.
 <img src="https://i.postimg.cc/NMzYFPWc/dataengineer.jpg" alt="I am a DataBase Engineer/ ETL Developer" width="700" height="350">
 
 🌟 I am a cheerful and open-minded individual who values diversity and enjoys working in collaborative environments.  
