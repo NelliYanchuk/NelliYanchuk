@@ -12,7 +12,7 @@ If you'd like to get in touch, feel free to reach out to me at **yanchuk.nelli@g
 
 ---
 
-**Skills:** AWS/ ETL/ SQL/ Python/ Docker/ Git/ Linux/ Matillion/ Pandas/ BitBucket/ Jira/ SSIS/ PostgreSQL/ MS SQL Server/ AginityWorkbench/ DBeaver/ Data Migration Service
+**Skills:** AWS/ ETL/ SQL/ Python/ API/ Docker/ Git/ Linux/ Matillion/ Pandas/ BitBucket/ Jira/ SSIS/ PostgreSQL/ MS SQL Server/ AginityWorkbench/ DBeaver/ Data Migration Service
 
 
 
