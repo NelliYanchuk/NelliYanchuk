@@ -18,5 +18,3 @@ If you'd like to get in touch, feel free to reach out to me at **yanchuk.nelli@g
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NelliYanchuk&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/NelliYanchuk)
